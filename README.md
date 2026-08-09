@@ -32,6 +32,10 @@ Most "landing page tips" content is generic platitudes ("write better headlines"
 
 The patterns come from reviewing real landing pages, including my own. Several of these I've shipped, regretted, and fixed. Mistakes are valuable; this catalog tries to make them less repeatable.
 
+## More
+
+Part of a catalog of single-file browser tools and plain-language references, all MIT licensed and dependency-free: [0xelitesystem.github.io](https://0xelitesystem.github.io/). Built by [elitesystem.ai](https://elitesystem.ai).
+
 ## License
 
 MIT for the catalog text. Use it however you want.
